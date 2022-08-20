@@ -1,4 +1,0 @@
-hello Jay! x 1
-hello Jay! x This is from the dev side
-hello Jay! x This is second git commit on dev side
-hello Jay! x This is third git commit on dev side
